@@ -1124,7 +1124,6 @@ body{
 
 
 .container2{
-    opacity:0;
     transform:translateY(50px);
     animation: ctaReveal 1s ease forwards;
     animation-delay:0.6s;
