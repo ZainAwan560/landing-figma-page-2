@@ -1171,7 +1171,9 @@ body{
     .rightdiv{
         width:100%;
     }
-
+.h3{
+    display: none;
+}
     .sth1{ 
         font-size:34px; 
     }
