@@ -1104,7 +1104,6 @@ body{
 
 
 .cards{
-    opacity:0;
     transform:translateY(40px);
     animation: cardReveal 0.8s ease forwards;
 }
